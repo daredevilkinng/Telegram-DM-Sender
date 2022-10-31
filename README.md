@@ -1,5 +1,5 @@
 # Telegram DM Tool
-Contact me to get the Pro Version of this Telegram tool    :   Telegram : https://t.me/daredevilkinng
+This is a free tool. Contact me to get the Pro Version of more 117+ features Telegram scripts    :   Telegram : https://t.me/daredevilkinng
 
 # Script to export members Telegram Groups and Channels to a CSV file and send DMs to Telegram Groups/Channels or Chats(Users).
 
